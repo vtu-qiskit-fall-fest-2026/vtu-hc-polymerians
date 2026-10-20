@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Polymerians** · Team ID `VTU-QFF-HC-0097` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Polymerians)
+[⬆ Back to Top](#polymerians)
 
 </div>
